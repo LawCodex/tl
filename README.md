@@ -16,7 +16,7 @@ República; Tetum versions exist only for a few acts). Part of
 
 These are the acts **as published** (original texts), one file per act as listed in the Jornal's
 indexes — Timor-Leste has no official consolidated database, so amendments are separate acts and
-repealed acts are not marked. Every file therefore has `status: unknown`.
+repealed acts are not marked. Every file therefore has `status: unknown` (except the Constitution, `in_force`).
 
 ### Gaps
 

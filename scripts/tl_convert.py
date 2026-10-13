@@ -224,7 +224,7 @@ def main():
         pm = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4})", it.get("published") or "")
         if pm:
             fm.append(f"date: {pm.group(3)}-{int(pm.group(2)):02d}-{int(pm.group(1)):02d}")
-        fm += ["status: unknown", f"source: {yq(BASE + it['pdf'])}", f"retrieved: {RETRIEVED}", "---", "",
+        fm += [f"status: {'in_force' if kind == 'constituicao' else 'unknown'}", f"source: {yq(BASE + it['pdf'])}", f"retrieved: {RETRIEVED}", "---", "",
                f"# {title}", "", body, ""]
         p = os.path.join(OUT, rel)
         os.makedirs(os.path.dirname(p), exist_ok=True)

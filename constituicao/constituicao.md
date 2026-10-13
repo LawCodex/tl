@@ -4,7 +4,7 @@ identifier: "Constituição da República Democrática de Timor-Leste"
 type: constitution
 jurisdiction: tl
 language: pt
-status: unknown
+status: in_force
 source: "https://www.mj.gov.tl/jornal/public/docs/ConstituicaoRDTL_Portugues.pdf"
 retrieved: 2026-10-13
 ---
