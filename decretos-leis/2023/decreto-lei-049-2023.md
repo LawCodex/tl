@@ -1681,3 +1681,81 @@ ____________________ Kay Rala Xanana Gusmão
 B
 
 M
+
+DELIBERAÇÃO N.º 10/2023, de 25 de Julho de 2023
+
+F
+
+M
+
+APROVAÇÃO DO PEDIDO DE REGISTO “FELICIANO
+
+DE OLIVEIRA MEDIA COT, UNIPESSOAL, LDA”,
+
+COMO ÓRGÃO DE COMUNICAÇÃO SOCIAL.
+
+No cumprimento do artigo 28.° da Lei N.° 5/2014, de 19 de Novembro, Lei da Comunicação Social, e do número 1 e 2 do artigo 1.° do Regulamento N.º 2/2017, de 7 de Março, o registo dos Órgão de Comunicação Social é obrigatório. Com base nesta determinação, o Conselho de Imprensa deve assegurar a existência de um registo que inclua todos os Órgão de Comunicação Social, nacionais ou estrangeiros, que realizem distribuição no território nacional.
+
+Assim, nos termos da alínea a) do artigo 3.° e do artigo 6.° do Regulamento N.º 2/2017, de 14 de Janeiro, o Conselho de Imprensa recebeu um requerimento subscrito por Erjol Adel da Costa Alves, de 29 de Maio de 2023, solicitando o registo do Órgão de Comunicação Social, da Sociedade Comercial Por
+
+C
+
+q c e p r n d Quarta-Feira, 23 de República Quota Limitada, “FELICIANO DE OLIVEIRA MEDIA COT, UNIPESSOAL, LDA” e o registo da publicação periódica diária com formato online: https://www.mediacot.info.
+
+O Conselho de Imprensa, nos termos do numero 1 do artigo 18.° e do artigo 28.° do Regulamento N.º 2/2017, de 7 de março, processou o número de registo N.º 6/DAJUS-CI/2023 e verificou todos os documentos necessários, concluindo-se pela inexistência de qualquer elemento que obstasse ao deferimento do mesmo.
+
+Assim, o Conselho de Imprensa, como entidade reguladora para a Comunicação Social, delibera, no exercício da competência prevista no artigo 37.° do seu Estatuto, aprovar o pedido de registo da Sociedade Comercial Por Quota Limitada
+
+“FELICIANO DE OLIVEIRA MEDIA COT, UNIPESSOAL,
+
+LDA”, e o registo da publicação periódica diária com formato online: https://www.mediacot.info.
+
+Dili, 25 de Julho de 2023.
+
+Pelos Membros do Conselho de Imprensa, Otélio Ote Presidente Amito Araújo Membro Benevides Correia Barros Membro Francisco Belo Simões da Costa Membro DELIBERAÇÃO Nº 01/VIII/ST-FDCH/2023
+
+ATO ADMINISTRATIVO DE DELEGAÇÃO DE
+
+COMPETÊNCIAS
+
+Considerando que pela Lei n.º 1/II/2011, de 14 de fevereiro, que aprovou o Orçamento Geral do Estado de 2011, foi também criado o Fundo de Desenvolvimento do Capital Humano, enquanto fundo especial, destinado a financiar programas e projetos plurianuais de formação e desenvolvimento dos recursos humanos com vista à capacitação dos quadros nacionais nos sectores estratégicos para o desenvolvimento do país; e Agosto de 2023 Jornal d Considerando que nos termos dos n.º 2 e n.º 4 do art.º 2.º da Lei n.º 1/2022 de 3 de janeiro do Orçamento Geral do Estado para 2022, o Fundo de Desenvolvimento do Capital Humano é um fundo autónomo, dotado de autonomia financeira.
+
+Considerando que nos termos do art.º 8.º do Decreto-Lei n.º 13/2020, de 15 de abril, o Conselho de Administração é apoiado pelo Secretariado Técnico;
+
+Considerando que nos termos do art.º 4 do mesmo diploma legal, o Conselho de Administração é a entidade responsável pelas operações do Fundo de Desenvolvimento do Capital Humano, e nos termos do art.º 5 é composto pelo Ministro do Planeamento e Investimento Estratégico, que o preside, Ministro do Ensino Superior, Ciência e Cultura, Ministra das Finanças, Ministro da Justiça, Ministro do Petróleo e Recursos Minerais e Secretário de Estado da Formação Profissional e Emprego;
+
+Considerando que o nº 2 do artigo 6.º do Decreto-Lei n.º 13/ 2020, de 15 de abril, estabelece a possibilidade de delegação de determinadas competências próprias do Conselho de Administração no Diretor Executivo do Secretariado Técnico;
+
+Considerando que as competências delegáveis no Diretor Executivo do Secretariado Técnico, nos termos do n. º 2 do artigo 6.º do Decreto-Lei n.º 13/2020, de 15 de abril, são competências de índole marcadamente administrativa, e cuja prática tempestiva é fundamental para a boa execução financeira, mas também para a boa execução dos projetos financiados pelo Fundo de Desenvolvimento do Capital Humano;
+
+Assim, Ao abrigo do disposto n.º 2 do artigo 6° do Decreto-Lei n.º 13/ 2020, de 15 de abril, que regulamenta o Fundo de Desenvolvimento do Capital Humano, o Conselho de Administração, em reunião especialmente convocada para o efeito e realizada em 17 de agosto de 2023, delibera por unanimidade dos seus membros, adotar o seguinte ato administrativo:
+
+\1. Delegar no Diretor Executivo do Secretariado Técnico, Dr.
+
+Cristóvão dos Reis, sem prejuízo dos poderes de avocação, as seguintes competências:
+
+a) Autorizar os pagamentos a serem processados através do orçamento do Fundo de Desenvolvimento do Capital Humano, na qualidade de responsável máximo do órgão de apoio técnico e administrativo do Conselho de Administração, até ao montante máximo de USD 500 000,00 (quinhentos mil dólares americanos), podendo nomear os responsáveis pelas assinaturas oficiais autorizadas dos Formulários de Compromisso de Pagamento (FCP/CPV), Ordens de Compra (OC/PO), Pedidos e Ordens de Pagamento (POP/PRT), bem como o responsável pela área da administração, pela área das finanças, pela área da logística, assim como o certificador e o autorizador do Fundo de Desenvolvimento do Capital Humano, quando tal seja necessário;
+
+b) Aprovar as transferências orçamentais (virement), entre Quarta-Feira, 23 da República a o é º o a l l o , s s e / o e ; r o o a o s l / m m s . o, s l o e
+
+D
+
+, s o ), o a o ; e programas ou dentro do mesmo programa, do Fundo de Desenvolvimento do Capital Humano, de acordo com a legislação em vigente;
+
+c) Assegurar a monitorização e fiscalização da execução dos financiamentos dos projetos suportados pelo Fundo de Desenvolvimento do Capital Humano, aprovando os relatórios de execução por projeto e por contrato;
+
+d) Praticar de acordo com as orientações do Presidente do Conselho de Administração do Fundo de Desenvolvimento do Capital Humano, em execução de atos materiais que asseguram o cumprimento das deliberações desse conselho, os atos necessários à gestão do Fundo de Desenvolvimento do Capital Humano, nomeadamente os necessários para: i) A gestão e administração dos recursos patrimoniais do Fundo de Desenvolvimento do Capital Humano, nos termos da lei em vigor;
+
+ii) A gestão e administração dos recursos humanos afetos ao Secretariado Técnico, incluindo a contratação de pessoal nos termos da lei em vigor;
+
+e) Ratificar os atos administrativos da tipologia dos acima praticados pelo Diretor Executivo do Secretariado Técnico do Fundo de Desenvolvimento do Capital Humano entre 1 de julho de 2023, até à presente data.
+
+\2. O ato mencionado a alínea b) do número anterior ganha eficácia plena no ato da sua aprovação pelos membros do Conselho de Administração.
+
+\3. A presente decisão produz efeitos na data em que foi adotada por deliberação do Conselho de Administração.
+
+\4. Publique-se.
+
+O Conselho de Administração do Fundo de Desenvolvimento do Capital Humano:
+
+Gastão Francisco de Sousa, na qualidade de Ministro do Planeamento e Investimento Estratégico e Presidente do Conselho de Administração do Fundo de Desenvolvimento do Capital Humano, ________________________________ José Honório da Costa Pereira Jerónimo, na qualidade de Ministro do Ensino Superior, Ciência e Cultura, _______________________________ 3 de Agosto de 2023 Jornal da R Santina José Rodrigues Ferreira Viegas Cardoso, na qualidade de Ministra das Finanças, ________________________________ Amândio de Sá Benevides, na qualidade de Ministro da Justiça, _________________________________ Francisco da Costa Monteiro, na qualidade de Ministro do Petróleo e Recursos Minerais, _________________________________ Rogério Araújo Mendonça, na qualidade de Secretário de Estado da Formação Profissional e Emprego, _________________________________ Quarta-Feira, 23 de República e Agosto de 2023

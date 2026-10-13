@@ -93,7 +93,14 @@ def main():
         f = pdf_path(rel)
         if os.path.exists(f) or os.path.exists(f + ".missing"):
             continue
-        url = urllib.parse.urljoin(BASE, urllib.parse.quote(rel, safe="/%"))
+        m = re.match(r"^https?:/*(public|files)/", rel)  # malformed links such as "http://public/docs/..."
+        if m:
+            rel_path = rel[m.start(1):]
+            url = urllib.parse.urljoin(BASE, urllib.parse.quote(rel_path, safe="/%"))
+        elif re.match(r"^https?://", rel):
+            url = urllib.parse.quote(rel, safe=":/%?&=")
+        else:
+            url = urllib.parse.urljoin(BASE, urllib.parse.quote(rel, safe="/%"))
         r = get(url)
         if r is not None and r.status_code == 200 and r.content.startswith(b"%PDF"):
             open(f, "wb").write(r.content)

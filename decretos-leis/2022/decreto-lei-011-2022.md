@@ -1846,4 +1846,22 @@ Kaben, Ministério da Saúde RDTL. ://www.ghspjournal.org/content/4/2/191. rent 
 
 East Asia’s maternal mortality rate was 320 in 1990, 220 in 2000, 14, 2020, sur http://www.un.org/sustainable development / ion with the United Nations Development Programme: Cairo and Health Survey 2009-2010. -Leste.
 
-The main causes of maternal deaths are obstetric complications, high blood pressure, and obstructedlabour. onesia. y ort 2016. uth East Asia’s maternal mortality rate was 320 in 1990, 220 in 61. of church teaching on family and life issue from Vatican II to the and media Boston. on in Kashi Vidyapeeth Block, Varanasi District (U.P.) Shweta ly planning (1971). zation. m: A handbook of indicators and their measurement strategies. view. Consulté le 2020, sur http://www.searo.who.int/entity/ Março de 2022 Jornal d
+The main causes of maternal deaths are obstetric complications, high blood pressure, and obstructedlabour. onesia. y ort 2016. uth East Asia’s maternal mortality rate was 320 in 1990, 220 in 61. of church teaching on family and life issue from Vatican II to the and media Boston. on in Kashi Vidyapeeth Block, Varanasi District (U.P.) Shweta ly planning (1971). zation. m: A handbook of indicators and their measurement strategies. view. Consulté le 2020, sur http://www.searo.who.int/entity/ Março de 2022 Jornal d DELIBERAÇÃO N.º 02/2022, de 9 de março (Alteração do Plano de Ação Anual para 2022) Nos termos do disposto no artigo 164.º, n.ºs 1 e 2 da Constituição da República Democrática de Timor-Leste e nos artigos 13.º, alínea c), 26.º, e 60.º, n.º 1, alínea c), da Lei n.º 9/ 2011, de 17 de Agosto, que aprova a orgânica da Câmara de Contas, os Juízes Conselheiros do Tribunal de Recurso, reunidos em Plenário, deliberam:
+
+a) Alterar o Plano de Ação Anual para 2022, da Câmara de Contas, que passa a incluir a seguinte auditoria:
+
+Auditoria ao Subsídio Atribuído pelo Banco Asiático de Desenvolvimento (ADB) no âmbito do Acordo “Asia Pacific Disaster Response Fund (Timor-Leste Floods Emergency Response Project)” (cash in & out).
+
+b) Ordenar a publicação da deliberação no Jornal da República.
+
+Díli, 9 de março de 2022.
+
+Os juízes do Tribunal de Recurso, Deolindo dos Santos (Presidente) Maria Natércia Gusmão Jacinta Correia da Costa Duarte Tilman Soares DELIBERAÇÃO N.º 5 /2022, de 28 de Fevereiro Assunto: Aprovação do pedido de “ Natural Multimedia Productions, Unipessoal. Lda.”, como Órgão de Comunicação Social.
+
+No cumprimento do artigo 28.° da Lei N.° 5/2014, de 19 de Novembro, Lei da Comunicação Social, e do número 1 e 2 do artigo 1.° do Regulamento N.º 2/2017, de 7 de Março, o registo dos Órgão de Comunicação Social é obrigatório. Com base nesta determinação, o Conselho de Imprensa deve assegurar a existência de um registo que inclua todos os Órgão de Comunicação Social, nacionais ou estrangeiros, que realizem distribuição no território nacional.
+
+Assim, nos termo da alínea a) do artigo 3.° e do artigo 6.° do Regulamento N.º 2/2017, de 7 de março, o Conselho de Quarta-Feira, 9 da República a s / e , e e a s .
+
+Imprensa recebeu um requerimento subscrito por Agida dos Santos, de 03 de Fevereiro de 2022, solicitando o registo Órgão de Comunicação Social, da Sociedade por Quota “ Natural Multimedia Productions, Unipessoal. Lda.”, e o registo da publicação periódica diária com formato online: https:// www.news-viptv.com O Conselho de Imprensa, nos termos do numero 1 do artigo 18.° e do artigo 20.° do Regulamento N.º 2/2017, de 7 de março, processou o número de registo N.º 02/DRAJ-CI/2022 e verificou todos os documentos necessários, concluindo-se pela inexistência de qualquer elemento que obstasse ao deferimento do mesmo.
+
+Assim, o Conselho de Imprensa, como entidade reguladora para a Comunicação Social, delibera, no exercício da competência prevista no artigo 37.° do seu Estatuto, aprovar o pedido de registo da sociedade por quota “Natural Multimedia Productions, Unipessoal. Lda”, e o registo da publicação periódica diária com formato online: https://www.newsviptv.com Diìli, 28 de Fevereiro de 2022 Pelos membros do Conselho de Imprensa, Expedito Loro Dias Ximenes Presidente Interino Benevides Correia Barros Membro Francisco Belo Simões da Costa Membro Otelio Ote Membro e o o e r e m o e de Março de 2022

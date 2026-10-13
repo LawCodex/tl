@@ -81,17 +81,19 @@ def find_act(lines, kind, number):
     core = rf"{word}\s+N\.?\s*[º°oO.]*\s*0*{n}\s*/\s*({y}|{y[2:]})\b"
     upper = re.compile("^" + core)
     alone = re.compile("^" + core + r"\s*(de\s+\d+\s+de\s+\w+(\s+de\s+\d{4})?)?\s*$", re.I)
-    starts = [i for i, x in enumerate(lines) if upper.match(x)]
+    def toc(i):  # entries of the issue's table of contents (SUMÁRIO) have dotted leaders
+        return any("...." in x for x in lines[i:i + 4])
+    starts = [i for i, x in enumerate(lines) if upper.match(x) and not toc(i)]
     if not starts:
         cands = [i for i, x in enumerate(lines) if alone.match(x)]
-        # skip the table of contents (SUMÁRIO) entry, which comes first
-        starts = cands[1:] if len(cands) > 1 else cands
+        nontoc = [i for i in cands if not toc(i)]
+        starts = nontoc or (cands[1:] if len(cands) > 1 else cands)
     if not starts:
         return None
     s = starts[0]
     head_alone = re.compile(ACT_HEAD.pattern + r"\s*(de\s+\d+\s+de\s+\w+(\s+de\s+\d{4})?)?\s*$", re.I)
     e = next((i for i in range(s + 2, len(lines))
-              if (ACT_HEAD.match(lines[i]) or head_alone.match(lines[i])) and not re.match("^" + core, lines[i], re.I)),
+              if head_alone.match(lines[i]) and not re.match("^" + core, lines[i], re.I)),
              len(lines))
     return lines[s:e]
 
@@ -184,6 +186,12 @@ def main():
             seen.add(key)
             lines = clean_lines(column_text(pdf))
             act = find_act(lines, kind, it["number"])
+            if act is None or len(to_md(act)) < 300:
+                # headings centred across both columns are cut by the column crop:
+                # fall back to poppler's own reading order for this act
+                alt = find_act(clean_lines(plain_text(pdf)), kind, it["number"])
+                if alt is not None and len(to_md(alt)) >= 300:
+                    act = alt
             if act is None:
                 # single-act PDFs (2002-2008) may lack a matching heading: use the whole document
                 if "/serie_1/" not in it["pdf"].lower() and "serie" not in os.path.basename(pdf).lower():
@@ -199,7 +207,10 @@ def main():
             typ = "law" if kind == "lei" else "decree_law"
             ident = f"{'Lei' if kind == 'lei' else 'Decreto-Lei'} n.º {it['number']}"
         else:
-            act = clean_lines(column_text(pdf))
+            # constitution / codes: some are single-column documents; keep the extraction that
+            # yields more article headings
+            cands = [clean_lines(column_text(pdf)), clean_lines(plain_text(pdf))]
+            act = max(cands, key=lambda ls: sum(1 for x in ls if ART.match(x)))
             d = "constituicao" if kind == "constituicao" else "codigos"
             rel = f"{d}/{kind}.md"
             title, typ, ident = it["title"], ("constitution" if d == "constituicao" else "code"), it["title"]

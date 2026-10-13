@@ -838,4 +838,26 @@ B
 
 M
 
-Quarta-Feira, 3 de S República
+Quarta-Feira, 3 de S República DELIBERAÇÃO N.º 9 /2025, de 2 de setembro
+
+HOMOLOGAÇÃO DO RESULTADO DO PROCESSO
+
+DE SELEÇÃO POR MÉRITO E NOMEAÇÃO DOS
+
+FUNCIONÁRIOS PARA EXERCER DO CARGO
+
+DE CHEFIAS DO CONSELHO DE IMPRENSA
+
+Conforme o artigo 25.o do Decreto-Lei N.o 25/2015 de 5 de Agosto do Estatuto do Conselho de Imprensa e deliberação N.0 9/2024 de 9 de Outubro que aprova Sobre o Recrutamento do Cargo de Chefias do Chefe Departamento das Finanças, Chefe Departamento do Serviço de Aprovisionamento e Chefe Departamento de Logística e Gestão Patrimonial e conforme a ata de CI-NÚ: 33/CI/IX/2024 com o Despacho N.o 14931/2025/ PCFP que deside abrir o processo de recrutamento e composição de júri para o cargo de direção e chefias em comissão de serviço do Conselho de Imprensa.
+
+Considerando que a ata de Encontro-V de juri e decisão n o 7115/2025/CFP relativa à homologação do resultado do processo de seleção por mérito, que nomeia os funcionários para exercer, pelo prazo de quatro anos, os cargos em comissão de serviço do Conselho de Imprensa os seguintes funcionários:
+
+Nome Cargo Almerio de Jesus Barros Moniz Chefe do Departamento das Finanças Dulce Trindade da Costa Chefe do Departamento dos Serviços de Aprovisionamento Georzinho Augusto Fernandes Chefe do Departamento de Logística e de Gestão Patrimonial Considerando que os cargos de Chefia mencionados acima são remunerados mensalmente de acordo com o Decreto-lei N.o 7/2024 de 24 de janeiro primeira alteração ao decreto-lei N.o 25/ 2016, de 29 de junho, Regime dos Cargos de Direcc’ao e chefia na administração Pública conforme o anexo II, DecretoLei N.o 21/2021 de 10 de Novembro Cria o Subsídio mensal de Transporte e o Suplemento 25% conforme o número 2 do artigo 25 do Estatuto do Conselho de Imprensa.
+
+Assim, para o efeito desta decisão tem a vinculação administrativa, o Conselho de Imprensa através do Plenário nos termos da alineia d) número 4 do artigo 37.o do Estatuto do Conselho de Imprensa para deliberar esta nomeação.
+
+Dili, 2 de Setembro de 2025.
+
+Pelos Membros dos Conselho de Imprensa:
+
+António Maria Da Conceição Moniz Mali Presidente Benevides Correia Barros Membro Setembro de 2025 Jornal d Isabel Maria Fernandes de Jesus Membro Joaquim de Fatima Coutinho Membro Suzana Bui Rai Carlota Cardoso Membro Quarta-Feira, 3 d da República de Setembro de 2025

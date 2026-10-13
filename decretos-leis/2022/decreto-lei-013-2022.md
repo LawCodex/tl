@@ -79,3 +79,31 @@ ______________________ Francisco Guterres Lú Olo
 B
 
 M
+
+DELIBERAÇÃO N.º 6 /2022, de 23 de Março
+
+ASSUNTO: APROVAÇÃO DO PEDIDO DE REGISTO
+
+DA SOCIEDADE SEM FINS LUCRATIVOS “RADIO
+
+COMUNIDADE COVA TAROMAN - RCCT “ COMO
+
+ÓRGÃO DE COMUNICAÇÃO SOCIAL.
+
+F
+
+M
+
+O
+
+M
+
+No cumprimento do artigo 28.° da Lei N.° 5/2014, de 19 de Novembro, Lei da Comunicação Social, e do artigo 1.° do Regulamento N.° 2/2017, de 7 de Março, o registo dos Órgãos de Comunicação Social é obrigatório. Com base nesta determinação, o Conselho de Imprensa deve assegurar a existência de um registo que inclua todos os Órgãos de Comunicação Social, nacionais ou estrangeiros, que realizem a distribuição no território nacional.
+
+Assim, o Conselho de Imprensa recebeu um requerimento subscrito por Sancho Alves Nahak, de 15 de janeiro de 2022, solicitando o registo como Órgão de Comunicação Social, da Sociedade Sem Fins Lucrativos “Radio Comunidade Cova Taroman-RCCT” registo da publicação periódica diária com frequência FM 94.5 MHZ e formato online: “www.rcct.tl”.
+
+O Conselho de Imprensa, nos termos do numero 1 do artigo 18.° e do artigo 27.° do Regulamento N.º 2/2017, de 7 de Março, processou o número de registo N.º 03/DRAJ-CI/I/2022 e verificou todos os documentos necessários, concluindo-se pela inexistência de qualquer elemento que obstasse ao deferimento do mesmo.
+
+Assim, o Conselho de Imprensa, como Entidade Reguladora para a Comunicação Social, delibera, no exercício da competência prevista no artigo 37.° do seu Estatuto, aprovar o Pedido de Registo da Sociedade Sem Fins Lucrativos “Radio Comunidade Cova Taroman - RCCT”, como Órgão de Comunicação Social e o registo da publicação periódica com frequência FM 94.5 MHZ e formato online: “www.rcct.tl”.
+
+Quarta-Feira, 30 de República Diìli, 23 de Março de 2022 Pelos membros do Conselho de Imprensa, Expedito Loro Dias Ximenes Presidente Interino Benevides Correia Barros Membro Francisco Belo Simões da Costa Membro Otelio Ote Membro e Março de 2022

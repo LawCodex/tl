@@ -1,0 +1,123 @@
+---
+title: "Decreto-Lei n.º 3/2002 — Estrutura orgânica do I Governo Constitucional"
+identifier: "Decreto-Lei n.º 3/2002"
+type: decree_law
+jurisdiction: tl
+language: pt
+date: 2002-09-20
+status: unknown
+source: "https://www.mj.gov.tl/jornal/public/docs/2002_2005/decreto_lei_governo/3_2002.pdf"
+retrieved: 2026-10-13
+---
+
+# Decreto-Lei n.º 3/2002 — Estrutura orgânica do I Governo Constitucional
+
+REPÚBLICA DEMOCRÁT
+
+GOVE
+
+_______ Decreto­lei De 20 de S
+
+ESTRUTURA O
+
+I GOVERNO CON
+
+Na sequência do reconhecimento internacion Timor­Leste, ocorrido a 20 de Maio de 2002, com a Estado soberano e independente;
+
+Tendo em consideração a entrada em vigor d Timor­Leste, ocorrida na mesma data, e em particula
+
+IV;
+
+Com o propósito de definir a estrutura orgâni Timor­Leste, em conformidade com o disposto na Co O Governo decreta, nos termos do disposto ambos da Constituição da República, para valer com
+
+ÁTICA DE TIMOR­LESTE
+
+ERNO
+
+_______ i n.º 3/2002 Setembro
+
+ORGÂNICA DO
+
+NSTITUCIONAL
+
+nal da independência da República Democrática de concomitante transformação de Timor­Leste num da Constituição da República Democrática de ar o disposto nos capítulos I, II e III do seu título nica do I Governo Constitucional que vai governar Constituição e nas leis. no n.º 3 do artigo 104.° e no n.º 3 do artigo 115.°, mo lei, o seguinte:
+
+## Artigo 1.º — Estrutura do Governo
+
+1 ­ O Governo é chefiado por um Primeiro­Ministro governamentais: a) Ministério dos Negócios Estrangeiros e Co b) Ministério da Justiça; c) Ministério do Plano e das Finanças; d) Ministério do Desenvolvimento e do Ambi e) Ministério dos Transportes, Comunicações f) Ministério da Administração Interna; g) Ministério da Agricultura, Florestas e Pesc h) Ministério da Educação, Cultura, Juventud i) Ministério da Saúde; j) Secretaria de Estado da Defesa;
+
+l) Secretaria de Estado do Trabalho e da Solida
+
+m) Secretaria de Estado do Comércio e Indústria n) Secretaria de Estado do Conselho de Minis 2 ­ Para efeitos do disposto no número anterior, a cad secretaria de Estado corresponde um secretário de E 3 ­ Integram ainda o Governo: a) um Ministro na Presidência do Conselho de b) um Secretário de Estado para os Assuntos c) dois Vice­Ministros dos Negócios Estrange d) dois Vice­Ministros da Justiça; e) dois Vice­Ministros do Plano e das Finança f) um Vice­Ministro dos Transportes, Comun g) dois Vice­Ministros da Administração Inte h) um Vice­Ministro da Agricultura, Florestas i) um Vice­Ministro da Educação, Cultura, J j) um Vice­Ministro da Saúde; l) um Secretário de Estado dos Recursos Miner m) um Secretário de Estado do Turismo, do Am n) um Secretário de Estado para a Electricidad o) um Secretário de Estado para a Educação, o e é constituído pelos seguintes departamentos ooperação; iente; s e Obras Públicas; cas; de e Desporto; ariedade; ia; e stros. da ministério corresponde um ministro e a cada Estado. de Ministros;
+
+Parlamentares; eiros e Cooperação; as; unicações e Obras Públicas; erna; s e Pescas;
+
+Juventude e Desporto; rais e da Política Energética; mbiente e do Investimento; ade e Águas; e Cultura, Juventude e Desporto. 4 ­ Exceptua­se do disposto no n.º 2 o cargo de Mini exercido em regime de acumulação com o cargo de P
+
+## Artigo 2.º — Conselho de Ministros
+
+1 ­ O Conselho de Ministros é o órgão decisório do G competência. 2 ­ Cabe ao Conselho de Ministros definir e ap organização e funcionamento, incluindo a criação d de submissões ou apresentação de recomendações ao
+
+## Artigo 3.º — Composição do Conselho de Ministros
+
+1 ­ O Conselho de Ministros é composto pelos segui a) Primeiro­Ministro; b) Ministro de Estado, dos Negócios Estrange c) Ministro da Justiça; d) Ministro do Plano e das Finanças; e) Ministro do Desenvolvimento e do Ambien f) Ministro dos Transportes, Comunicações e g) Ministro da Administração Interna; h) Ministro da Agricultura, Florestas e Pescas i) Ministro da Educação, Cultura, Juventude j) Ministro da Saúde; e istro do Desenvolvimento e do Ambiente, o qual é Primeiro­Ministro.
+
+Governo e delibera sobre os assuntos da sua provar as regras e procedimentos relativos à sua de comissões, permanentes ou ad hoc, para análise o Conselho. intes membros: eiros e Cooperação; nte; e Obras Públicas; s; e e Desporto; l) Ministro na Presidência do Conselho de M 2 ­ Participam nas reuniões do Conselho de Minis Governo:
+
+a) Secretário de Estado da Defesa; b) Secretário de Estado do Trabalho e da Soli c) Secretário de Estado do Comércio e Indúst d) Secretário de Estado do Conselho de Minis e) Secretário de Estado para os Assuntos Parl 3 ­ Podem ainda participar nas reuniões do Conselho Ministros ou outros secretários de Estado que sejam Artig Primeiro­ 1 ­ O Primeiro­Ministro possui a competência própri Constituição e da lei. 2 ­ Compete, em especial, ao Primeiro­Ministro:
+
+a) Chefiar o Governo e presidir ao Conselho de
+
+b) Dirigir e orientar a política geral do Governo
+
+c) Representar, em exclusivo, o Governo e o Co Presidente da República e o Parlamento Naci
+
+d) Exercer as competências que lhe forem deleg
+
+e) Exercer as demais competências que lhe fore 3 ­ O Primeiro­Ministro é coadjuvado, no exercício d Conselho de Ministros e pelo Secretário de Estado p 4 ­ Estão na dependência directa do Primeiro­Minis todos aqueles que não sejam expressamente integrad a) Serviço Nacional de Segurança do Estado; b) Inspecção­Geral;
+
+Ministros. stros, sem direito a voto, os seguintes membros do idariedade; tria; stros; e lamentares. o de Ministros, sem direito a voto, os Viceconvocados por indicação do Primeiro­Ministro. go 4.º ­Ministro ria e a competência delegada que decorrem da e Ministros; o e coordenar a acção governativa; onselho de Ministros nas suas relações com o ional; gadas pelo Conselho de Ministros; em atribuídas por lei. das suas funções, pelo Ministro na Presidência do para os Assuntos Parlamentares. stro os seguintes serviços e organismos, bem como dos num ministério ou numa secretaria de Estado: ; c) Gabinete de Assessoria para os Direitos Hu d) Gabinete de Assessoria para a Imagem e C e) Gabinete de Assessoria para a Promoção da f) Unidade de Desenvolvimento de Capacida 5 ­ Encontra­se sujeita à tutela do Primeiro­Ministro 6 ­ O Primeiro­Ministro pode delegar em qualquer serviços ou organismos dele dependentes.
+
+Artig Competências Os ministros possuem a competência própria Constituição e da lei.
+
+Artig Ministério dos Negócios Estrangeiros e Cooperaç 1 ­ O Ministério dos Negócios Estrangeiros e Coope pela concepção, execução, coordenação e avaliaçã Conselho de Ministros, para as áreas da diplomacia e da promoção e defesa dos interesses dos timore orgânica. 2 ­ Os serviços e organismos que integram o Ministé previstos na sua lei orgânica. 3 ­ O Ministro de Estado, dos Negócios Estrangeiros funções, por dois Vice­Ministros, sendo o mais antig substituto legal. 4 ­ O Ministro de Estado, dos Negócios Estrangeiros umanos;
+
+Comunicação Social; da Igualdade; e ades. o a Autoridade Central Bancária e de Pagamentos. membro do Governo as competências relativas aos go 5.º dos Ministros a e a competência delegada que decorrem da go 6.º ção eração é o departamento governamental responsável ção da política externa, definida e aprovada pelo e cooperação internacional, das funções consulares enses no exterior, nos termos a definir na sua lei ério dos Negócios Estrangeiros e Cooperação são os s e Cooperação é coadjuvado, no exercício das suas go no cargo, salvo designação em contrário, o seu s e Cooperação pode delegar, com faculdade de subdelegação, nos Vice­Ministros, as competências r dependentes.
+
+Artig Ministério da Justiça 1 ­ O Ministério da Justiça é o departamento gove coordenação e avaliação da política definida e apro justiça e do direito, designadamente, nos domínios Governo, dos sistemas prisional e de reinserção serviços de registos e notariado, bem como nas maté cidadania e ao património imobiliário sob adminis relações do Governo com a Procuradoria­Geral da R lei orgânica. 2 ­ Os serviços e organismos que integram o Ministé 3 ­ O Ministro da Justiça é coadjuvado, no exercício mais antigo no cargo, salvo designação em contrário 4 ­ O Ministro da Justiça pode delegar, com faculdad competências relativas aos serviços ou organismos d Artig Ministério do Plano e das Finanças 1 ­ O Ministério do Plano e das Finanças é o departa execução, coordenação e avaliação da política fiscal Ministros, nos domínios orçamental, monetário e finanças das entidades públicas, nos termos a definir 2 ­ Os serviços e organismos que integram o Ministé lei orgânica. relativas aos serviços ou organismos dele go 7.º vernamental responsável pela concepção, execução, ovada pelo Conselho de Ministros, para as áreas da s da reforma legislativa e da assessoria jurídica ao social, dos serviços de defensoria pública e dos térias relativas à formação judiciária, aos direitos de stração do Estado, cabendo­lhe ainda assegurar as República e os Tribunais, nos termos a definir na sua ério da Justiça são os previstos na sua lei orgânica. das suas funções, por dois Vice­Ministros, sendo o o, o seu substituto legal. de de subdelegação, nos Vice­Ministros, as dele dependentes. go 8.º tamento governamental responsável pela concepção, l e financeira definida e aprovada pelo Conselho de e creditício, cabendo­lhe igualmente coordenar as r na sua lei orgânica. ério do Plano e das Finanças são os previstos na sua 3 ­ O Ministro do Plano e das Finanças é coadjuvado Ministros, sendo o mais antigo no cargo, salvo desig 4 ­ O Ministro do Plano e das Finanças pode delegar Ministros, as competências relativas aos serviços ou
+
+## Artigo 9.º — Ministério do Desenvolvimento e do Ambiente
+
+1 ­ O Ministério do Desenvolvimento e do Ambiente concepção, execução, coordenação e avaliação da Ministros para as áreas da promoção e apoio ao inv para as áreas da energia, dos recursos naturais e min orgânica. 2 ­ Os serviços e entidades que integram o Ministéri na sua lei orgânica. 3 ­ O Ministro do Desenvolvimento e Ambiente é co Secretário de Estado dos Recursos Minerais e da Pol Turismo, do Ambiente e do Investimento, sendo o se a) O Secretário de Estado dos Recursos M b) O Secretário de Estado do Turismo, do ou impedimentos do Secretário de Estado 4 ­ O Ministro do Desenvolvimento e Ambiente p secretários de Estado, as competências relativas aos Artigo Ministério dos Transportes, Comunicações e Obr o, no exercício das suas funções, por dois Vicegnação em contrário, o seu substituto legal. r, com faculdade de subdelegação, nos Viceu organismos dele dependentes. te é o departamento governamental responsável pela a política definida e aprovada pelo Conselho de nvestimento, desenvolvimento e turismo, bem como nerais e do ambiente, nos termos a definir na sua lei io do Desenvolvimento e Ambiente são os previstos oadjuvado, no exercício das suas funções, por um lítica Energética e por um Secretário de Estado do eu substituto legal, salvo designação em contrário:
+
+Minerais e da Política Energética; o Ambiente e do Investimento, nas ausências, faltas o dos Recursos Minerais e da Política Energética. pode delegar, com faculdade de subdelegação, nos serviços ou organismos dele dependentes. o 10.º ras Públicas 1 ­ O Ministério dos Transportes, Comunicações e responsável pela concepção, execução, coordenação Conselho de Ministros, para as áreas dos transporte os serviços postais, para as áreas das obras públicas, bem como para as áreas de gestão dos recursos hídr termos a definir na sua lei orgânica. 2 ­ Os serviços e organismos que integram o Ministé Públicas são os previstos na sua lei orgânica. 3 ­ O Ministro dos Transportes, Comunicações e Ob funções, por um Vice­Ministro e por um Secretário d substituto legal, salvo designação em contrário: a) b) O Vice­Ministro; ou O Secretário de Estado para a Electricidade do Vice­Ministro. 4 ­ O Ministro dos Transportes, Comunicações e Ob subdelegação, no Vice­Ministro ou no Secretário de organismos dele dependentes.
+
+Artigo Ministério da Administração Interna 1 ­ O Ministério da Administração Interna é o concepção, execução, coordenação e avaliação da Ministros, para as áreas da segurança pública, d migração bem como para a função pública, ca administração pública regional ou local e assegurar definir na sua lei orgânica. 2 ­ Os serviços e organismos que integram o Ministé sua lei orgânica. 3 ­ O Ministro da Administração Interna é coadjuvad Ministros, sendo o mais antigo no cargo, salvo desig e Obras Públicas é o departamento governamental o e avaliação da política, definida e aprovada pelo es e comunicações, incluindo as telecomunicações e s, construção civil, habitação e planeamento urbano, ricos nacionais e dos serviços de meteorologia, nos ério dos Transportes, Comunicações e Obras bras Públicas é coadjuvado, no exercício das suas de Estado para a Electricidade e Águas, sendo o seu de e Águas, nas ausências, faltas ou impedimentos bras Públicas pode delegar, com faculdade de Estado, as competências relativas aos serviços ou go 11.º o departamento governamental responsável pela a política definida e aprovada pelo Conselho de da investigação criminal, da protecção civil e da abendo­lhe igualmente coordenar a actuação da a publicação dos documentos oficiais, nos termos a ério da Administração Interna são os previstos na do, no exercício das suas funções, por dois Vicegnação em contrário, o seu substituto legal. 4 ­ O Ministro da Administração Interna pode delega Ministros, as competências relativas aos serviços ou Artigo Ministério da Agricultura, Florestas e Pescas 1 ­ O Ministério da Agricultura, Florestas e Pescas concepção, execução, coordenação e avaliação da Ministros, para o sector da agricultura, designada assistência técnica aos agricultores, do sistema de organização cadastral, bem como para o sector das p 2 ­ Os serviços e organismos que integram o Ministé previstos na sua lei orgânica. 3 ­ O Ministro da Agricultura, Florestas e Pescas é c Vice­Ministro, que é o seu substituto legal, salvo des 4 ­ O Ministro da Agricultura, Florestas e Pescas pod Vice­Ministro, as competências relativas aos serviço Artigo Ministério da Educação, Cultura, Juventude e De 1 ­ O Ministério da Educação, Cultura, Juventu responsável pela concepção, execução, coordenação Conselho de Ministros, para as áreas da educaç alfabetização, da cultura e do desporto, cabend específicas para a juventude, nos termos a definir na 2 ­ Os serviços e organismos que integram o Ministé ar, com faculdade de subdelegação, nos Viceu organismos dele dependentes. o 12.º s é o departamento governamental responsável pela a política definida e aprovada pelo Conselho de amente nos domínios da investigação agrária e da e irrigação, da gestão dos recursos florestais e da pescas, nos termos a definir na sua lei orgânica. ério da Agricultura, Florestas e Pescas são os coadjuvado, no exercício das suas funções, por um signação em contrário. de delegar, com faculdade de subdelegação, no os ou organismos dele dependentes. o 13.º esporto ude e Desporto é o departamento governamental ão e avaliação da política definida e aprovada pelo ação, designadamente nos domínios do ensino e do­lhe igualmente a implementação de políticas a sua lei orgânica. ério da Educação, Cultura, Juventude e Desporto são os previstos na sua lei orgânica. 3 ­ O Ministro da Educação, Cultura, Juventude e De funções, por um Vice­Ministro e por um Secretário d Desporto, sendo o seu substituto legal, salvo designa a) b) O Vice­Ministro; ou O Secretário de Estado para a Educação, C ou impedimentos do Vice­Ministro. 4 ­ O Ministro da Educação, Cultura, Juventude e De subdelegação, no Vice­Ministro ou no Secretário de organismos dele dependentes.
+
+Artigo Ministério da Saúde 1 ­ O Ministério da Saúde é o departamento governa coordenação e avaliação da política definida e aprov saúde e das actividades farmacêuticas, nos termos a 2 ­ Os serviços e organismos que integram o Ministé 3 ­ O Ministro da Saúde é coadjuvado, no exercício d seu substituto legal, salvo designação em contrário. 4 ­ O Ministro da Saúde pode delegar, com fa competências relativas aos serviços ou organismos d Artigo Secretaria de Estado da Defesa esporto é coadjuvado, no exercício das suas de Estado para a Educação, Cultura, Juventude e ação em contrário:
+
+Cultura, Juventude e Desporto, nas ausências, faltas esporto pode delegar, com faculdade de Estado, as competências relativas aos serviços ou go 14.º amental responsável pela concepção, execução, vada pelo Conselho de Ministros, para a área da definir na sua lei orgânica. ério da Saúde são os previstos na sua lei orgânica. das suas funções, por um Vice­Ministro, que é o faculdade de subdelegação, no Vice­Ministro, as dele dependentes. o 15.º 1 ­ A Secretaria de Estado da Defesa é o departam execução, coordenação e avaliação da política defin áreas da defesa nacional, designadamente da adm Timor­Leste bem como da preparação e adequaç cooperação militar, nos termos a definir na sua lei or 2 ­ Os serviços e organismos que integram a Secreta orgânica. 3 ­ Consideram­se delegadas no Secretário de Estado à prossecução das atribuições previstas no n.º 1: a) Executar a política definida para a sua secr b) Assegurar as relações entre o Governo e os secretaria de Estado. 4 ­ O Secretário de Estado da Defesa pode s competências relativas aos serviços ou organismos d Artigo Secretaria de Estado do Trabalho e da Solidaried 1 ­ A Secretaria de Estado do Trabalho e da Solidari pela concepção, execução, coordenação e avaliação Ministros, para as áreas do emprego e formação prof nos termos a definir na sua lei orgânica. 2 ­ Os serviços e organismos que integram a Secreta os previstos na sua lei orgânica. 3 ­ Consideram­se delegadas no Secretário de Estado competências, necessárias à prossecução das atribuiç a) Executar a política definida para a sua s b) Assegurar as relações entre o Governo respectiva secretaria de Estado. mento governamental responsável pela concepção, nida e aprovada pelo Conselho de Ministros, para as ministração e fiscalização das Forças de Defesa de ção dos seus meios militares, e para a área da rgânica. aria de Estado da Defesa são os previstos na sua lei o da Defesa as seguintes competências, necessárias retaria de Estado; s demais órgãos do Estado, no âmbito da respectiva subdelegar, com faculdade de subdelegação, as dele dependentes. go 16.º dade iedade é o departamento governamental responsável o da política definida e aprovada pelo Conselho de fissional, dos serviços sociais e da segurança social, aria de Estado do Trabalho e da Solidariedade são o do Trabalho e da Solidariedade as seguintes ções previstas no n.º 1: secretaria de Estado; e os demais órgãos do Estado, no âmbito da 4 ­ O Secretário de Estado do Trabalho e da S subdelegação, as competências relativas aos serviços Artigo Secretaria de Estado do Comércio e Indústria 1 ­ A Secretaria de Estado do Comércio e Indústria é concepção, execução, coordenação e avaliação da po Ministros, para as actividades económicas de produç as actividades de prestação de serviços e o comércio 2 ­ Os serviços e organismos que integram a Secreta previstos na sua lei orgânica. 3 ­ Consideram­se delegadas no Secretário de Estado competências, necessárias à prossecução das atribuiç a) Executar a política definida para a sua se b) Assegurar as relações entre o Governo e respectiva secretaria de Estado. 4 ­ O Secretário de Estado do Comércio e Indústria as competências relativas aos serviços ou organismo Artigo Secretaria de Estado do Conselho de Ministros 1 ­ A Secretaria de Estado do Conselho de Minis consulta do Conselho de Ministros e do seu Pres necessário apoio jurídico, em colaboração com o M apoio técnico­administrativo, coordenar a implem Conselho nas comissões por ele criadas e garantir o termos a definir na sua lei orgânica.
+
+Solidariedade pode subdelegar, com faculdade de s ou organismos dele dependentes. go 17.º é o departamento governamental responsável pela olítica definida e aprovada pelo Conselho de ção de bens e serviços, designadamente a indústria, o, nos termos a definir na sua lei orgânica. aria de Estado do Comércio e Indústria são os o do Comércio e Indústria as seguintes ções previstas no n.º 1: secretaria de Estado; e os demais órgãos do Estado, no âmbito da a pode subdelegar, com faculdade de subdelegação, os dele dependentes. o 18.º stros é o departamento governamental de apoio e sidente, cabendo­lhe, designadamente, assegurar o Ministério da Justiça, bem como prestar o necessário mentação das respectivas decisões, representar o o cumprimento das suas regras e procedimentos, nos 2 ­ Os serviços e organismos que integram a Secreta previstos na sua lei orgânica. 3 ­ Consideram­se delegadas no Secretário de Estado competências necessárias à prossecução das atribuiç a) Executar a política definida para a sua se b) Assegurar as relações entre o Governo e respectiva secretaria de Estado. 4 ­ O Secretário de Estado do Conselho de Ministro as competências relativas aos serviços ou organismo
+
+## Artigo 19.º — Delegações de
+
+1 ­ Para os efeitos do previsto no presente diploma, a regidas pelas regras previstas nos números seguintes 2 ­ As delegações e subdelegações de competências previstos. 3 ­ As delegações e subdelegações de competênci momento e devem ser comunicadas ao Primeiro­Min 4 ­ No acto formal de delegação ou subdelegaçã habilitante, o nome do delegado e especificar os p delegado pode praticar. 5 ­ O delegante pode emitir instruções vinculativas p poder de revogar os actos praticados pelo delegado. 6 ­ O delegado deve mencionar essa qualidade no us aria de Estado do Conselho de Ministros são os o do Conselho de Ministros as seguintes ções previstas no n.º 1: secretaria de Estado; e os demais órgãos do Estado, no âmbito da os pode subdelegar, com faculdade de subdelegação, os dele dependentes. competências as delegações e subdelegações de competências são s. só são permitidas nos casos expressamente ias são pessoais, podem ser revogadas a qualquer nistro. ção, o delegante deve indicar a respectiva norma poderes que são delegados ou quais os actos que o para o delegado, tem o poder de avocar bem como o so da delegação ou subdelegação.
+
+## Artigo 20.º — Substituição dos Membros do Governo
+
+1 ­ Salvo indicação em contrário do Primeiro­Minis impedimentos, por um Ministro, de acordo com a or 3.º. 2 ­ Em caso de falta de substituto legal ou de designa de Estado são substituídos, nas suas ausências, faltas designar.
+
+Artigo Disposições finais e transitórias 1 ­ Os organismos designados por Comissão para o P Doadores, que se encontravam na dependência do ex Ministério do Plano e das Finanças. 2 ­ No prazo de 120 dias a contar da data da publicaç Conselho de Ministros os projectos de diploma que c secretarias de Estado. 3 ­ São revogados o Regulamento n.º 2001/28 de 19 d Conselho de Ministros e o Regulamento n.º 2002/7 d Governo Transitório de Timor­Leste e alterações ao disposições legais ou regulamentares que contrariem
+
+## Artigo 22.º — Efeitos
+
+O presente diploma produz efeitos desde o di stro, este é substituído, nas suas ausências, faltas ou rdem de precedência estabelecida no n.º 1 do artigo ação pelo substituído, os Ministros ou Secretários s ou impedimentos, por quem o Primeiro­Ministro go 21.º Planeamento e Gabinete Coordenador dos xtinto Gabinete do Ministro­Chefe, transitam para o ção do presente diploma, devem ser submetidos a consagrem a estrutura orgânica dos ministérios e de Setembro de 2001 sobre o estabelecimento do da UNTAET sobre a estrutura orgânica do Segundo Regulamento n.º 2001/28 da UNTAET e as demais m o disposto no presente diploma. ia 20 de Maio de 2002.
+
+Aprovado em Conselho de Ministros, ao abrigo do d aos 9 de Agosto de 2002.
+
+O Primeiro­Ministro, Mari Bim Amude Alkatiri O Ministro de Estado, dos Negócios Estrangeiros e C O Ministro da Justiça em substituição, Domingos Ma A Ministra do Plano e das Finanças, Maria Madalen O Ministro do Desenvolvimento e do Ambiente, Mar O Ministro dos Transportes, Comunicações e Obras O Ministro da Administração Interna, Rogério Tiago O Ministro da Agricultura, Florestas e Pescas, Estan O Ministro da Educação, Cultura, Juventude e Despo O Ministro da Saúde, Rui Maria de Araújo Promulgado em 16 de Agosto de 2002.
+
+Publique­se.
+
+O Presidente da República, José Alexandre Gusmão, disposto na alínea d) do artigo 116.º da Constituição, Cooperação, José Ramos­Horta aria Sarmento na Brites Boavida ari Bim Amude Alkatiri Públicas, Ovídio de Jesus Amaral o de Fátima Lobato nislau da Conceição Aleixo Maria da Silva orto, Armindo Maia o, ‘Kay Rala Xanana Gusmão’

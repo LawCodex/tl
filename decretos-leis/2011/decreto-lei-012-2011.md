@@ -12,204 +12,202 @@ retrieved: 2026-10-13
 
 # Decreto-Lei n.º 12/2011 — Regulamenta o Fundo do Desenvolvimento do Capital Humano
 
-DECRETO-LEI Nº. 12 /2011 de 23 de Março Regulamenta o Fundo do Desenvolvimento do Capital Humano ..................................................................................4678
+DECRETO-LEI Nº. 12 /2011 de 23 de Março
 
-MINISTÉRIO DO TURISMO, COMÉRCIO E INDÚSTRIA:
+REGULAMENTA O FUNDO DO DESENVOLVIMENTO
 
-Diploma Ministerial N.º 6/ MTCI/III/2011 de 23 de Março Sobre o Preço de Venda e Distribuição do Milho de Produção Local ..........................................................................................4680 Decreto do Presidente da República n.° 19/2011 de 22 de Março A Medalha "Solidariedade de Timor-Leste" foi criada através do Decreto-Lei n° 15/2009, de 18 de Março, para reconhecer e agradecer a polícias e militares estrangeiros que tenham Quarta-Feira, 23 da República 3 de Março de 2011
+DO CAPITAL HUMANO
 
-AL DA REPÚBLICA DEMOCRÁTICA DE TIMOR - LESTE
+O Governo elaborou um plano de desenvolvimento do capital humano ambicioso que envolve um grande esforço de investimento público em programas plurianuais de formação e desenvolvimento dos recursos humanos nacionais, procurando dar resposta às necessidades de Timor-Leste.
 
-s e m servido em missão mandatada para assistir as operações de Defesa e Segurança após 1 de Maio de 2006 e durante o período de intervenção da INTERFET, entre 20 de Setembro de 1999 e 28 de Fevereiro de 2000.
+S
 
-O Presidente da República, nos termos da alínea j) do artigo 85° da Constituição da República Democrática de Timor-Leste, conjugado com o artigo 3° do Decreto-Lei n.° 15/2009, de 18 de Março, decreta:
+Tal plano foi sufragado pelo Parlamento Nacional, através da aprovação da Lei do Orçamento Geral do Estado (OGE) para 2011, que procedeu à criação do Fundo de Desenvolvimento do Capital Humano, nos termos previstos no artigo 32º da Lei no. 13/2009, de 21 de Outubro (LOGF). b a c Trata-se de um mecanismo de financiamento adequado à natureza plurianual dos programas, cujas verbas não caducam no final do ano financeiro, reduzindo assim a tendência para a acumulação dos gastos na parte final do ano e permitindo que as actividades associadas aos programas e projectos decorram ao longo de todo o ano de forma contínua e sem interrupções, com consequentes benefícios ao nível das taxas de execução orçamental, e dotando de maior segurança o cumprimento das obrigações assumidas pelo Estado através da assinatura de acordos, programas e projectos de carácter plurianual que visem a capacitação e desenvolvimento do capital humano nacional.
 
-São condecorados com a medalha "Solidariedade de TimorLeste" os seguintes membros da TLPDP da Polícia Federal Australiana:
+O Fundo visa pois, contribuir para melhorar o planeamento, gestão e execução dos projectos e, simultaneamente, assegurar uma maior transparência nos gastos públicos relativos às despesas com a formação e desenvolvimento dos recursos humanos, quer através da criação de mecanismos de escrutínio dos programas, projectos e acções a financiar pelo Fundo, quer por permitir a prestação de contas em relação ao custo total dos projectos. d 1 2 Assim, O Governo decreta, nos termos da alínea e) do n.º 1 do artigo 115.º da Constituição da República e do no. 7 do artigo 9.º da Lei do Orçamento Geral do Estado para 2011, para valer como lei, o seguinte: 3
 
-\1. Commander, Charmaine Quade
+## CAPÍTULO I — NATUREZA E OBJECTIVOS
 
-\2. Acting Commander, Graham Waite
+### Artigo 1.º — Natureza e fins
 
-\3. Superintendent, Con Coutsolitis
+1
 
-\4. Acting Superintendent, Paul Chambers
+\1. O presente Decreto-Lei regulamenta o Fundo de Desenvolvimento do Capital Humano, abreviadamente designado por Fundo.
 
-\5. Federal Agent, Andrew Morgione
+\2. O Fundo destina-se a financiar programas e projectos plurianuais de formação e desnvolvimento dos recursos humanos, nomeadamente programas destinados a aumentar a formação dos profissionais timorenses em sectores estratégicos de desenvolvimento tais como a justiça, Quarta-Feira, 23 d República saúde, educação, infra-estruturas, agricultura, turismo, gestão petrolífera e gestão financeira, entre outros, que incluam actividades e acções a realizar em Timor-Leste e a participação de cidadãos timorenses em formações fora do país, incluindo bolsas de estudo para cursos universitários e de pós-graduação.
 
-\6. Special Member, John Lal
+### Artigo 2.º — Objectivos
 
-\7. Special Member, Daniel Hayes
+São objectivos do Fundo:
 
-\8. Special Member, Wayne Poulter
+a) Assegurar o financiamento do investimento público na formação e desenvolvimento dos recursos humanos nacionais;
 
-\9. Special Member, Brent Reed
+b) Garantir a segurança na negociação e assinatura de acordos, programas e projectos plurianuais;
 
-\10. Special Member, Deborah Robertson
+c) Permitir a retenção das verbas do Fundo no final do ano financeiro, com o objectivo de garantir a continuidade dos programas e projectos;
 
-\11. Special Member, Christina Mooibroek
+d) Promover a transparência e a responsabilidade através da melhoria do sistema de reporte e prestação de contas sobre a execução dos programas e projectos de formação e desenvolvimento do capital humano. 1.
 
-\12. Special Member, James Ridsdale
+## CAPÍTULO II — CONSELHO DE ADMINISTRAÇÃO
 
-\13. Ms. Tania Takis
+### Artigo 3.º — Composição
 
-\14. Ms. Lynne Geddes
+A entidade responsável pelas operações do Fundo é o Conselho de Administração.
 
-\15. Ms. Dorothy Jenner
+\2. O Conselho de Administração é composto pelo PrimeiroMinistro, que preside, o Ministro das Finanças, o Ministro da Justiça, o Ministro da Educação e o Secretário de Estado dos Recursos Naturais e o Secretário de Estado da Formação Profissional e Emprego.
 
-\16. Ms. Lyn Tan
+\3. Podem ainda integrar pontualmente o Conselho de Administração outros membros do Governo e demais entidades relevantes que tenham relação com os programas e projectos a financiar pelo Fundo.
 
-\17. Ms. Carolyn Marsh
+### Artigo 4.º — Competências
 
-\18. Ms. Tracey Banister
+\1. Compete ao Conselho de Administração, designadamente:
 
-\19. Ms. April Winter
+a) Aprovar e prioritizar os projectos a serem financiados pelo Fundo e a respectiva estimativa de custos;
 
-\20. Ms. Louise Cook-Tonkin
+b) Aprovar as opções de financiamento de cada projecto de desenvolvimento do Capital Humano;
 
-\21. Mr. Richard Stanfield
+c) Coordenar a preparação e aprovar a proposta de Orçamento do Fundo, a apresentar ao Comité de Revisão do Orçamento; de Março de 2011 Jornal d
 
-\22. Mr. Westie Mcmillan
+d) Autorizar os pagamentos a serem processados através do Fundo;
 
-\23. Mr. Robert Emanuel
+e) Aprovar os Relatórios de Actividades e o Relatório de Contas do Fundo.
 
-\24. Mr. John Dettman 3 de Março de 2011 Jornal da R
+\2. O Conselho de Administração pode delegar em qualquer dos seus membros as competências referidas nas alíneas do número anterior.
 
-\25. Mr. Edwin Irvine
+### Artigo 5.º — Funcionamento
 
-\26. Mr. Murray Connor
+\1. O Conselho de Administração reúne sempre que for convocado pelo seu Presidente ou pela maioria dos seus membros.
 
-\27. Mr. Gayil (Mitch) Anderson Publique-se.
+\2. O Conselho de Administração delibera por maioria simples dos membros presentes, tendo o Presidente voto de qualidade.
 
-José Ramos-Horta Presidente da República Democrática de Timor-Leste Assinado no Palácio Presidencial Nicolau Lobato, ao vingéssimo segundo dia do mês de Março do ano de dois mil e onze.
+\3. Nas faltas, ausências ou impedimentos do Presidente, este designa o seu substituto de entre os restantes membros do Conselho.
 
-Decreto do Presidente da República n.° 20/2011 de 22 de Março A Medalha "Solidariedade de Timor-Leste" foi criada através do Decreto-Lei n.°15/2009, de 18 de Março, para reconhecer e agradecer a polícias e militares estrangeiros que tenham servido em missão mandatada para assistir as operações de Defesa e Segurança após 1 de Maio de 2006 e durante o período de intervenção da INTERFET, entre 20 de Setembro de 1999 e 28 de Fevereiro de 2000.
+\4. As deliberações do Conselho são fundamentadas e lavradas em acta.
 
-O Presidente da República, nos termos da alínea j) do artigo 85° da Constituição da República Democrática de Timor-Leste, conjugado com o artigo 3° do Decreto-Lei n.° 15/2009, de 18 de Março, decreta:
+### Artigo 6.º — Apoio técnico e administrativo
 
-São condecorados, com a medalha "Solidariedade de TimorLeste" os seguintes elementos: b
+Para a prossecução das suas atribuições e competências, o Conselho de Administração é apoiado pelo Secretariado Técnico do Desenvolvimento do Capital Humano, providenciado pelo Ministério da Educação.
 
-a) Polícia da Segurança Pública Portuguesa(PSP)
+## CAPÍTULO III — PROJECTOS E ORÇAMENTO
 
-\1. Comissário, António Pedro Ferreira Fortes
+### Artigo 7.º — Programas e projectos de Desenvolvimento de Capital
 
-C
+Humano Os programas e projectos a incluir no Fundo são propostos pelos Ministérios e aprovados pelo Conselho de Administração do Fundo.
 
-\2. Comissário, Ricardo Jorge Pinto Ferreira
+### Artigo 8.º — Critérios
 
-\3. Subcomissário, Dino Gonçalves Duro
+A escolha dos programas e projectos a financiar pelo Fundo obedece a critérios a serem definidos pelo Conselho de Administração.
 
-\4. Subcomissário, Fernando Manuel Antunes Moreira
+### Artigo 9.º — Orçamento do Fundo
 
-\5. Subcomissário, Rui Manuel Catarino Gouveia
+A proposta de Orçamento do Fundo é apresentada ao Parlamento Nacional, juntamente com a proposta do OGE, nos termos da Lei no. 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira.
 
-\6. Chefe, Carlos José Contente Romão
+Quarta-Feira, 23 da República s e r s
 
-\7. Chefe, João Pedro Caldeira Alves
+### Artigo 10.º — Receitas e Despesas
 
-\8. Chefe, João Fernando Vilelas Coutinho
+\1. Constituem receitas do Fundo:
 
-\9. Chefe, José António Ramos Dos Santos
+a) A dotação orçamental atribuída anualmente pela Lei que aprova o OGE;
 
-P
+b) Outras receitas atribuídas por lei ou por contrato.
 
-\10. Chefe, Jorge Manuel Cerdeira Costa
+\2. Constituem despesas do Fundo todas as despesas necessárias à prossecução dos fins a que o Fundo se destina. s
 
-\11. Chefe, António Eduardo Silva Rodrigues
+## CAPÍTULO IV — EXECUÇÃO DO FUNDO
 
-\12. Chefe, João Manuel Mestrinho Arranhado
+### Artigo 11.º — Conta oficial
 
-J
+s e e s
+
+\1. O Fundo tem uma conta oficial, junto de uma instituição bancária sediada em território nacional, na qual são creditadas todas as receitas e debitadas todas as despesas do Fundo. -
+
+\2. A abertura da conta a que se refere o número anterior é autorizada pelo Ministro das Finanças. o o , s - o e o s o
+
+### Artigo 12.º — Autorização da despesa
+
+\1. A execução de despesa e o processamento de pagamentos só pode ocorrer após autorização do Conselho de Administração para a realização da despesa através do Fundo, no respectivo ano económico.
+
+\2. Os pagamentos a realizar pelo Fundo são processados pelo Ministério das Finanças, através da conta oficial.
+
+### Artigo 13.º — Alterações orçamentais
+
+O Conselho de Administração é competente para aprovar as alterações orçamentais das dotações atribuídas aos programas e projectos, dentro do limite da dotação total do Fundo aprovada pelo Parlamento Nacional e respeitadas as respectivas finalidades.
+
+### Artigo 14.º — Transição de saldos
+
+Os saldos apurados no final de cada ano económico são retidos no conta oficial do Fundo, transitando automaticamente para o ano seguinte.
+
+### Artigo 15.º — Registos contabilísticos
+
+Compete ao Tesouro assegurar o registo contabilístico de todas as receitas e despesas do Fundo, de acordo com os sistemas de classificação em vigor. 3 de Março de 2011 Jornal da R
+
+## CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+### Artigo 16.º — Controlo e responsabilidade financeira
+
+O controlo da execução do Fundo e a responsabilidade financeira ficam sujeitos às regras constantes do Título VI da Lei no. 13/2009, de 21 de Outubro, sobre Orçamento e Gestão Financeira, com as necessárias adaptações.
+
+### Artigo 17.º — Regulamentação
+
+O presente diploma é regulamentado por Diploma Ministerial do Primeiro-Ministro.
+
+### Artigo 18.º — Entrada em vigor
+
+O presente Decreto-Lei entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho de Ministros em 16 de Março de 2011.
 
 O
 
-\13. Chefe, Marcos José Guerreiro Rodrigues
+d r n 2
 
-\14. Chefe, João Manuel Proença Goulão
+I
 
-\15. Chefe, Luís Filipe Fogaça Ribeiro
+n p a n
 
 A
 
-s Quarta-Feira, 23 d República
+M
 
-\16. Chefe, José Maria Bento Mafra
+d
 
-\17. Agente Principal, Egas Moniz Ferreira Freitas
+S
 
-\18. Agente Principal, José António Freitas Rodrigues
+e O Primeiro-Ministro, ______________________ Kay Rala Xanana Gusmão
 
-\19. Agente Principal, Carlos Alberto Silva Gomes Lemos
+S
 
-\20. Agente Principal, Miguel Saltão Loureiro
+p 2 e g u A Ministra das Finanças,
 
-\21. Agente Principal, Nuno Vasco Ramalho Lopes César
+A
 
-\22. Agente Principal, Pedro Raúl Rodrigues Gaeiras
+___________ Emília Pires
 
-\23. Agente Principal, Manuel José Dias Cardoso
+O
 
-\24. Agente Principal, Ricardo Jorge Ferreira Davim Cordeiro
+I
 
-\25. Agente Principal, Pedro Nuno Dias Costa Esteves
+a d O Ministro da Educação, 1 ___________ João Câncio 2 Promulgado em 16 . 3 . 11 Publique-se.
 
-\26. Agente Principal, Hugo Miguel Sousa Soares
+O Presidente da República, ________________ José Ramos-Horta 3 4 Quarta-Feira, 23 d República Diploma Ministerial N.º 6/ MTCI/III/2011 de 23 de Março Sobre o preço de venda e distribuição do milho de produção local O Governo estabeleceu as políticas, princípios e regulamento da intervenção no abastecimento público de arroz e da respectiva reserva alimentar, através da Resolução do Governo n.º 20/2008; do Decreto-lei n.º 28/2008 e do Decreto n.º 13/ 2008, respectivamente, todos publicados em 13 de Agosto;
 
-\27. Agente Principal, Nelson Ricardo Antunes Sousa
+Igualmente, o Governo adoptou as medidas de intervenção necessárias à compra dos produtos locais, os quais seriam prejudicados pela intervenção a preços de importação, abrangendo, entre outros bens alimentares essenciais, o milho nacional;
 
-\28. Agente Principal, Luís Miguel Pereira Ventura P. Araújo
+Atendendo ainda ao Despacho Ministerial n.º 17/20, de 9 de Março, publicado no Jornal da República, Série II, nº 10 de 19 de Março, que instituiu a equipa de gestão, Unidade de Segurança Alimentar, para garantir a distribuição dos bens essenciais sob o regime de abastecimento público;
 
-\29. Agente Principal, João Paulo Ramos Magalhães
+Sendo o objectivo principal da política de abastecimento público do Governo, aprovada pela Resolução do Governo n.º 20/2008, de 13 de Agosto, proporcionar este bem alimentar, essencial às famílias, a preço acessível e justo, assumindo a garantia de abastecimento público de bens essenciais, como uma obrigação constitucional e moral adequada, Assim:
 
-\30. Agente Principal, Carlos José Lopes Rodrigues
+O Governo manda, pelo Ministro do Turismo, Comércio e Indústria, ao abrigo das disposições legais e da política de abastecimento público, acima identificadas, publicar o seguinte diploma:
 
-\31. Agente Principal, António Manuel Pinto Candeias
+\1. O preço de venda do milho local, produzido em TimorLeste, adquirido pelo Governo, é fixado em $0,20 (vinte cêntimos de dólar norte-americano) por cada quilo.
 
-\32. Agente Principal, António Moisés Soares Almeida
+\2. Para colmatar a situação de insuficiência e distorção de preços do mercado em Oecussi, a equipa de gestão da Unidade de Segurança Alimentar instituída pelo Despacho Ministerial n.º 17/20, de 9 de Março, publicado no Jornal da República, Série II, nº 10 de 19 de Março, disponibilizará 50 toneladas de milho àquela Região.
 
-\33. Agente Principal, Emerson Jorge Marques Arrais
+\3. O dinheiro resultante da intervenção e venda, será depositado imediatamente na conta do Tesouro, deduzidas as despesas operacionais.
 
-\34. Agente Principal, Luís Miguel Pinheiro Cunha
+\4. Os Serviços inspectivos do MTCI prestam toda a colaboração, com particular atenção aos aspectos preventivos de Março de 2011 Jornal d de fraudes e desvios que possam desvirtuar a acção de intervenção, desde o transporte, até à entrega efectiva dos bens essenciais à população.
 
-\35. Agente Principal, Jorge Manuel Macieira Costa
+Publique-se.
 
-\36. Agente Principal, José Manuel Martins Mendes
-
-\37. Agente Principal, Paulo César Santos Ferreira
-
-\38. Agente Principal, Rui Manuel Silva Cunha
-
-\39. Agente Principal, João Paulo Rodrigues Simões
-
-\40. Agente Principal, Jorge José Nunes Pereira
-
-\41. Agente Principal, Paulo Alexandre Correira Silva
-
-\42. Agente Principal, José Domingos Silva Monteiro
-
-\43. Agente Principal, Martinho José Ramalho Vilela Reis
-
-\44. Agente Principal, Ilídio António Guerreiro Dias
-
-\45. Agente, António José Ferreira Rodrigues
-
-b) Serviços de Estrangeiros e Fronteiras(SEF)
-
-\1. Inspector Adjunto Principal, Rui Paulo Alexandre Zilhão C) Guarda Nacional Republicana( GNR)
-
-\1. Tenente-Coronel, Paulo Jorge Rosa Gomes
-
-\2. Sargento Ajudante, Paulo Alexandre Bernardo Batista
-
-\3. 1.° Sargento, Nelson Fernando Cristino Coelho
-
-\4. 1.° Sargento, Marco Rocha Carvalho da Mota
-
-\5. Cabo, Fernando Manuel Figueiredo Batista
-
-\6. Cabo, Luís António dos Santos Publique-se.
-
-José Ramos-Horta O Presidente da República Democrática de Timor-Leste Assinado no Palácio Presidencial Nicolau Lobato, ao vigésimo segundo dia do mês de Março de dois mil e onze. de Março de 2011 Jornal d Resolução do Conselho Superior da Magistratura Judicial Na sessão extraordinária de 7 de Março de 2011, em que participaram os Conselheiros Cláudio de Jesus Ximenes, Presidente, Dionísio Babo, Vice-presidente, Nelson de Carvalho e Napoleão Soares, o Conselho Superior da Magistratura deliberou, nos termos dos artigos 25, n.1 e 2, 26 e 30 da Lei 8/ 2002, de 20 de Setembro, com as alterações introduzidas pela Lei 11/2004, de 29 de Dezembro, nomear juízes de direito de 3 classe os juízes estagiários do terceiro curso de formação a seguir indicados segundo a ordem das classificações obtidas no Curso de Formação, os quais se manterão nos tribunais em que se encontram colocados, com efeitos retroactivos desde 24 de Março de 2011:
-
-Juiz Classificação Tribunal de colocação 1.António José Fonseca Monteiro de Jesus 16, 25 Tribunal Distrital de Díli 2.José Gonçalves 14,30 Tribunal Distrital de Díli 3.Álvaro Maria Freitas 12,17 Tribunal Distrital de Díli Os nomeados tomarão posse, no prazo de um mês a contar da data da publicação.
-
-A Juíza Secretária Margarida Veloso
+Díli, 14 de Março de 2011 O Ministro do Turismo, Comércio e Indústria, ____________________ Gil da Costa A. N. Alves Quarta-Feira, 23 da República e s 3 de Março de 2011
