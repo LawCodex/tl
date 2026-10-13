@@ -8,17 +8,27 @@ República; Tetum versions exist only for a few acts). Part of
 
 | Category | Directory | Files |
 |---|---|---|
-| Constitution of the Democratic Republic of Timor-Leste (2002) | `constituicao/` | __CONST__ |
-| Codes published on the Jornal site (Civil Code, Penal Code, Code of Criminal Procedure, Code of Civil Procedure) | `codigos/` | __CODES__ |
-| Laws of the National Parliament (Leis do Parlamento Nacional) | `leis/<year>/lei-NNN-YYYY.md` | __LEIS__ |
-| Decree-laws of the Government (Decretos-Leis do Governo) | `decretos-leis/<year>/decreto-lei-NNN-YYYY.md` | __DL__ |
-| **Total** | | **__TOTAL__** |
+| Constitution of the Democratic Republic of Timor-Leste (2002) | `constituicao/` | 1 |
+| Codes published on the Jornal site (Civil Code, Penal Code, Code of Criminal Procedure, Code of Civil Procedure) | `codigos/` | 4 |
+| Laws of the National Parliament (Leis do Parlamento Nacional) | `leis/<year>/lei-NNN-YYYY.md` | 262 |
+| Decree-laws of the Government (Decretos-Leis do Governo) | `decretos-leis/<year>/decreto-lei-NNN-YYYY.md` | 843 |
+| **Total** | | **1110** |
 
 These are the acts **as published** (original texts), one file per act as listed in the Jornal's
 indexes — Timor-Leste has no official consolidated database, so amendments are separate acts and
 repealed acts are not marked. Every file therefore has `status: unknown`.
 
-__GAPS__
+### Gaps
+
+The indexes list 277 distinct laws and 912 distinct decree-laws. Not converted:
+
+- 45 acts whose heading could not be located in the linked issue PDF (heading printed in an
+  unexpected form, or the index links the wrong issue);
+- 36 acts whose PDF has no text layer (image scans, mainly 2004–2009) or yielded no text;
+- 3 PDFs that return HTTP 404 (Série I 2012 n.º 41, 2014 n.º 25 and n.º 44).
+
+`scripts/tl_convert.py` prints the exact list.
+
 
 ### Not covered
 
